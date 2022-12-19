@@ -1,4 +1,9 @@
-/* 3. java program to print the given two Strings are anagram or not*/
+/* 3. java program to print the given two Strings are anagram or not
+
+Anagram:
+	An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, 
+typically using all the original letters exactly once. For example, "cinema" is an anagram for "iceman".
+*/
 import java.util.Arrays;
 class Anagram{
 	public static void main(String args[]){
