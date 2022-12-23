@@ -1,3 +1,6 @@
+/*Write a java program to copy the array values to another array in reverse 
+order as If arr1[1,2,3,4,5] the resultant array should be arr2[5,4,3,2,1]*/
+
 import java.util.Arrays;
 public class CopyArray{
    public static void main(String args[]){
