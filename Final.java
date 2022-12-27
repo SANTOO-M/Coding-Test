@@ -8,7 +8,6 @@ public class Final{
 	   array[i]*=10;
 	System.out.print("\nUpdated final array values: ");
 	for(int k:array)
-		System.out.print(k+" ");
-		
+		System.out.print(k+" ");		
     }
 }
