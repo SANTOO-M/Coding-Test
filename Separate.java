@@ -1,3 +1,5 @@
+/*Write a java code to separate the digits of the given number: 967 as 9,6,7.*/
+
 import java.util.*;
 public class Separate{
   public static void main(String args[]){

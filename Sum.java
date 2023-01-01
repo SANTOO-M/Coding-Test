@@ -1,3 +1,5 @@
+/*Write a java program to sum the elements of the array using forloop: a[11,22,33,44,55]*/
+
 import java.util.*;
 import java.io.*;
 public class Sum{

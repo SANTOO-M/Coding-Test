@@ -1,3 +1,5 @@
+/*Write a java program to print your name and your name in reverse order*/
+
 import java.io.*;
 import java.util.Scanner;
 

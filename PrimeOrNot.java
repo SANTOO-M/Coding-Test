@@ -1,4 +1,4 @@
-// 1.Write a java program to find whether the given number is prime or not.
+//Write a java program to find whether the given number is prime or not.
 
 import java.util.Scanner;
 class PrimeOrNot{
